@@ -1,1 +1,1 @@
-# monthly-expenses_telebot
+# monthly_expenses_analyzer

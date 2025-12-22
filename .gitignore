@@ -1,6 +1,4 @@
 test_csvs/
-test.csv
-expenses_mixed_errors.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
